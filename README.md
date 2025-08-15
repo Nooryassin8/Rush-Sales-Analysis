@@ -1,2 +1,1 @@
-# Rush-Sales-Analysis
-Rush Sales Analysis
+Analysis for RUSH, a global sportswear brand, using raw sales data from products, retailers, and sales tables. The goal is to clean data, evaluate U.S. sales performance, identify trends in seasonality, regions, retailers, and sales methods, and uncover growth opportunities.
