@@ -1,4 +1,4 @@
-https://github.com/Nooryassin8/Rush-Sales-Analysis/blob/b1355a6d96192c02ed6d1e7a4084663841b41b92/GB885%20_%20RushSalesAnalysis_%20Sheikhyassin_%20N.mp4    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r0Mq89WQ36M?si=zicKCi1J83M1sBFz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      
   
   
 **Purpose of sharing the project**: showcasing skills in using Pandas library in Python, calculating KPIs, answering business questions, spotting trends & patterns, and data manipulation & cleaning.     
