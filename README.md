@@ -1,5 +1,6 @@
 
-[![Watch the video](http://img.youtu.com/vi/r0Mq89WQ36M?si=j5We8OdSouFbvK0z/0.jpg)](https://youtu.be/r0Mq89WQ36M?si=j5We8OdSouFbvK0z)     
+[![Watch the video](<img width="1245" height="693" alt="Screenshot 2025-08-15 173511" src="https://github.com/user-attachments/assets/2ca0dec2-0929-432f-a133-ec008f8cff95" />)](https://youtu.be/r0Mq89WQ36M?si=j5We8OdSouFbvK0z)     
+
 
 [![Let's Learn Git Together](http://img.youtube.com/vi/r8jQ9hVA2qs/0.jpg)](http://www.youtube.com/watch?v=r8jQ9hVA2qs "Let's Learn Git Together")
   
