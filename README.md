@@ -6,11 +6,13 @@
   
 **Introduction**: Analysis for RUSH, a global sportswear brand, using raw sales data from products, retailers, and sales tables. The goal is to clean data, evaluate U.S. sales performance, identify trends in seasonality, regions, retailers, and sales methods, and uncover growth opportunities.      
   
-Step 1: Data Acquisition (check the code below for uploading and merging the datasets)  
+Step 1: Data Acquisition (check the code below for uploading and merging the datasets)    
+
 Data Acquiring: <img width="1321" height="315" alt="Data_Acquiring" src="https://github.com/user-attachments/assets/d59d64e5-95d8-4e17-90ad-19ddfa9ec868" />  
 Data Merging<img width="1658" height="428" alt="Data_Merging" src="https://github.com/user-attachments/assets/33ee091f-684b-4670-bfc3-e89633990db3" />  
 
-Step 2: Data Inspection ( check below code snippets to inspect for null, duplicates, outliers, erroneous duplicates, and convert the datatype for some columns     
+Step 2: Data Inspection ( check below code snippets to inspect for null, duplicates, outliers, erroneous duplicates, and convert the datatype for some columns    
+
 **Datatype Converting:**     
 <img width="605" height="102" alt="Datatype_Converting" src="https://github.com/user-attachments/assets/e9401ff7-c43d-4eb9-b1a6-4ce49b88d7c9" />
 
@@ -41,7 +43,7 @@ Step3: Data Cleaning ( Check below code snippets to handle missing, erroneous, a
 
 Step4: Rush Sales Analysis:   
 
-**Seasonality:**     
+**Seasonality:**      
 <img width="746" height="337" alt="Seasonality" src="https://github.com/user-attachments/assets/b907237a-9ad7-463c-bdea-db7cd707cee6" />
 
 **Overall Yearly Performance:**      
