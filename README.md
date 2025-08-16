@@ -1,8 +1,4 @@
-https://github.com/user-attachments/assets/2ca0dec2-0929-432f-a133-ec008f8cff95"
 [![Watch the video](https://github.com/user-attachments/assets/2ca0dec2-0929-432f-a133-ec008f8cff95)](https://youtu.be/r0Mq89WQ36M?si=j5We8OdSouFbvK0z "Video Presentation")     
-
-
-[![Let's Learn Git Together](http://img.youtube.com/vi/r8jQ9hVA2qs/0.jpg)](http://www.youtube.com/watch?v=r8jQ9hVA2qs "Let's Learn Git Together")
   
 **Purpose of sharing the project**: showcasing skills in using Pandas library in Python, calculating KPIs, answering business questions, spotting trends & patterns, and data manipulation & cleaning.     
   
