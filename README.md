@@ -1,5 +1,6 @@
-
-  ([https://youtu.be/vt5fpE0bzSY](https://youtu.be/r0Mq89WQ36M?si=j5We8OdSouFbvK0z ))
+https://github.com/Nooryassin8/Rush-Sales-Analysis/blob/0602fda19b9fef6e25dc91a0cc736982043362a9/Presentation_Video_Thumbnail  
+    
+([https://youtu.be/vt5fpE0bzSY](https://youtu.be/r0Mq89WQ36M?si=j5We8OdSouFbvK0z ))
       
   
   
