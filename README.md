@@ -1,4 +1,4 @@
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/r0Mq89WQ36M?si=j5We8OdSouFbvK0z ))
+[![Watch the video]([https://i.sstatic.net/Vp2cE.png](https://github.com/Nooryassin8/Rush-Sales-Analysis/blob/0f9ca14918b0b4719b403ed65142b4c16a5669a4/Presentation_Video_Thumbnail))]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/r0Mq89WQ36M?si=j5We8OdSouFbvK0z ))
       
   
   
