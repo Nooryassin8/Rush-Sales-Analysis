@@ -23,7 +23,7 @@ Check for Outliers:
 
 
 Step3: Data Cleaning ( Check below code snippets to handle missing, erroneous, and outlier values.
-Handling Missing Values:     
+Handling Missing Values:          
 <img width="1666" height="128" alt="Handling_Missingvalue" src="https://github.com/user-attachments/assets/f8f74f15-99e2-4de2-92b2-8f73f3a0501f" />
 
 Handling Erroneous Values:     
@@ -34,37 +34,37 @@ Handling Outliers:
 
 
 Step4: Rush Sales Analysis:
-Seasonality: 
+Seasonality:     
 <img width="746" height="337" alt="Seasonality" src="https://github.com/user-attachments/assets/b907237a-9ad7-463c-bdea-db7cd707cee6" />
 
-Overall Yearly Performance:
+Overall Yearly Performance:      
 <img width="635" height="200" alt="Yearly_Performance" src="https://github.com/user-attachments/assets/12bafc88-6359-4767-8727-f0b184e06c4f" />
 
-Year over Year Growth: 
+Year over Year Growth:       
 <img width="576" height="341" alt="YOY_Growth" src="https://github.com/user-attachments/assets/18359fc7-3c0f-4569-8e86-5a1c856a978f" />
 
-Top Retailers: 
+Top Retailers:       
 <img width="605" height="398" alt="Top_Retailers" src="https://github.com/user-attachments/assets/9a5d6f18-ee72-45a8-bf26-baed1d8dc5c4" />
 
-Top Loactions: 
+Top Loactions:        
 <img width="588" height="394" alt="Top_Locations" src="https://github.com/user-attachments/assets/3de81ec9-60f9-4b2b-9354-bb22e024c86a" />
 
-Top Product Categories: 
+Top Product Categories:          
 <img width="713" height="426" alt="Top_Product_Categories" src="https://github.com/user-attachments/assets/b9298cf8-a4cb-45c1-863f-cf0841866416" />
 
-Lowest Performing Product Categories: 
+Lowest Performing Product Categories:        
 <img width="703" height="319" alt="Lowest_Performing_Product_Category" src="https://github.com/user-attachments/assets/b544f3e4-430c-4cc3-ae14-f6a292adc528" />
 
-Q1. What product category (product) had the highest sales (in dollars) in 2021? How much did it sell? 
+Q1. What product category (product) had the highest sales (in dollars) in 2021? How much did it sell?      
 <img width="917" height="297" alt="Q1" src="https://github.com/user-attachments/assets/1dc2231a-4616-43f4-bbbd-a18b1334ff6d" />
 
-Q2. What state had the highest sales (in dollars) of women's products in 2021? How much was it? 
+Q2. What state had the highest sales (in dollars) of women's products in 2021? How much was it?      
 <img width="1059" height="278" alt="Q2" src="https://github.com/user-attachments/assets/ae8748b6-4819-4b01-9857-c9705c88830e" />
 
-Q3. What state had the highest sales (in dollars) of men's products in 2021? How much was it? 
+Q3. What state had the highest sales (in dollars) of men's products in 2021? How much was it?      
 <img width="1089" height="262" alt="Q3" src="https://github.com/user-attachments/assets/c31262dc-909a-48e4-bf5a-f6d0777e158e" />
 
-Q4.  What retailer purchased the most units in 2021? In 2020? 
+Q4.  What retailer purchased the most units in 2021? In 2020?      
 <img width="1115" height="465" alt="Q4" src="https://github.com/user-attachments/assets/7c8f2205-9f7f-4764-b203-022b58221503" />
 
 
