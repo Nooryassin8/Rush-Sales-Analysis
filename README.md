@@ -1,4 +1,5 @@
-https://youtu.be/r0Mq89WQ36M?si=j5We8OdSouFbvK0z       
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/r0Mq89WQ36M?si=j5We8OdSouFbvK0z ))
+      
   
   
 **Purpose of sharing the project**: showcasing skills in using Pandas library in Python, calculating KPIs, answering business questions, spotting trends & patterns, and data manipulation & cleaning.     
