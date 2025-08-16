@@ -1,7 +1,8 @@
  <img width="1021" height="615" alt="Data_Acquiring" src="https://github.com/Nooryassin8/Rush-Sales-Analysis/blob/0602fda19b9fef6e25dc91a0cc736982043362a9/Presentation_Video_Thumbnail" />     
 [![Watch the video](https://youtu.be/r0Mq89WQ36M?si=j5We8OdSouFbvK0z )]
 
-      
+[![Watch the video](http://github.com/Nooryassin8/Rush-Sales-Analysis/blob/0602fda19b9fef6e25dc91a0cc736982043362a9/Presentation_Video_Thumbnail)](http://youtu.be/r0Mq89WQ36M?si=j5We8OdSouFbvK0z)     
+
 [![Let's Learn Git Together](http://img.youtube.com/vi/r8jQ9hVA2qs/0.jpg)](http://www.youtube.com/watch?v=r8jQ9hVA2qs "Let's Learn Git Together")
   
 **Purpose of sharing the project**: showcasing skills in using Pandas library in Python, calculating KPIs, answering business questions, spotting trends & patterns, and data manipulation & cleaning.     
