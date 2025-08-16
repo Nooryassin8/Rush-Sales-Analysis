@@ -7,11 +7,9 @@ Data Acquiring: <img width="1321" height="315" alt="Data_Acquiring" src="https:/
 Data Merging<img width="1658" height="428" alt="Data_Merging" src="https://github.com/user-attachments/assets/33ee091f-684b-4670-bfc3-e89633990db3" />
 
 Step 2: Data Inspection ( check below code snippets to inspect for null, duplicates, outliers, erroneous duplicates, and convert the datatype for some columns
-Datatype Converting: 
-<img width="905" height="152" alt="Datatype_Converting" src="https://github.com/user-attachments/assets/e9401ff7-c43d-4eb9-b1a6-4ce49b88d7c9" />
+Datatype Converting: <img width="905" height="152" alt="Datatype_Converting" src="https://github.com/user-attachments/assets/e9401ff7-c43d-4eb9-b1a6-4ce49b88d7c9" />
 
-Check for Null Values: 
-<img width="564" height="97" alt="Null_Values" src="https://github.com/user-attachments/assets/b6da2111-1b95-4447-9d84-941b57814b72" />
+Check for Null Values: <img width="564" height="97" alt="Null_Values" src="https://github.com/user-attachments/assets/b6da2111-1b95-4447-9d84-941b57814b72" />
 
 Check for Unique Values:
 <img width="716" height="263" alt="Unique_Value" src="https://github.com/user-attachments/assets/0f56327a-7c57-4481-a03a-280c23ff487b" />
