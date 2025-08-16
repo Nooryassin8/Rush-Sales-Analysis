@@ -30,10 +30,10 @@ Check for Outliers:
 Step3: Data Cleaning ( Check below code snippets to handle missing, erroneous, and outlier values.    
 
 Handling Missing Values:          
-<img width="2200" height="528" alt="Handling_Missingvalue" src="https://github.com/user-attachments/assets/f8f74f15-99e2-4de2-92b2-8f73f3a0501f" />
+<img width="2000" height="728" alt="Handling_Missingvalue" src="https://github.com/user-attachments/assets/f8f74f15-99e2-4de2-92b2-8f73f3a0501f" />
 
 Handling Erroneous Values:     
-<img width="1800" height="530" alt="Handling_Erroneousvalue" src="https://github.com/user-attachments/assets/47487180-09fa-4e6a-9ff4-5e9d1677cb76" />
+<img width="1600" height="730" alt="Handling_Erroneousvalue" src="https://github.com/user-attachments/assets/47487180-09fa-4e6a-9ff4-5e9d1677cb76" />
 
 Handling Outliers:       
 <img width="694" height="239" alt="Handling_Outliers" src="https://github.com/user-attachments/assets/d710e4fb-2022-470f-a98b-397a650f0281" />
