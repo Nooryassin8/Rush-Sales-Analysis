@@ -8,8 +8,9 @@
   
 Step 1: Data Acquisition (check the code below for uploading and merging the datasets)    
 
-Data Acquiring: <img width="1321" height="315" alt="Data_Acquiring" src="https://github.com/user-attachments/assets/d59d64e5-95d8-4e17-90ad-19ddfa9ec868" />  
-Data Merging<img width="1658" height="428" alt="Data_Merging" src="https://github.com/user-attachments/assets/33ee091f-684b-4670-bfc3-e89633990db3" />  
+**Data Acquiring:** <img width="1321" height="315" alt="Data_Acquiring" src="https://github.com/user-attachments/assets/d59d64e5-95d8-4e17-90ad-19ddfa9ec868" />  
+
+**Data Merging:** <img width="1658" height="428" alt="Data_Merging" src="https://github.com/user-attachments/assets/33ee091f-684b-4670-bfc3-e89633990db3" />  
 
 Step 2: Data Inspection ( check below code snippets to inspect for null, duplicates, outliers, erroneous duplicates, and convert the datatype for some columns    
 
