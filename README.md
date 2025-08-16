@@ -1,5 +1,5 @@
-Purpose of sharing the project: showcasing skills in using Pandas library in Python, calculating KPIs, answering business questions, spotting trends and patterns, and data manipulation & cleaning . 
-Please refer to the this file (GB885_RushSalesAnalysis_Sheikhyassin_N.ipynb) to view the full code
+Purpose of sharing the project: showcasing skills in using Pandas library in Python, calculating KPIs, answering business questions, spotting trends & patterns, and data manipulation & cleaning . 
+Please refer to the this file (GB885_RushSalesAnalysis_Sheikhyassin_N.ipynb) above to view the full code
 Introduction: Analysis for RUSH, a global sportswear brand, using raw sales data from products, retailers, and sales tables. The goal is to clean data, evaluate U.S. sales performance, identify trends in seasonality, regions, retailers, and sales methods, and uncover growth opportunities.
 
 Step 1: Data Acquisition (check the code below for uploading and merging the datasets)
