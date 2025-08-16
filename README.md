@@ -18,18 +18,18 @@ Check for Unique Values:
 Check for Erroneous Values:     
 <img width="722" height="262" alt="Erroneous_Value" src="https://github.com/user-attachments/assets/9987a49b-e2b4-4b8f-b3c8-0560ac32f65a" />
 
-Check for Outliers:    
+Check for Outliers:      
 <img width="910" height="562" alt="Outliers" src="https://github.com/user-attachments/assets/608cd566-e6b1-4545-8a05-399c15717cd7" />
 
 
 Step3: Data Cleaning ( Check below code snippets to handle missing, erroneous, and outlier values.
-Handling Missing Values: 
+Handling Missing Values:     
 <img width="1666" height="128" alt="Handling_Missingvalue" src="https://github.com/user-attachments/assets/f8f74f15-99e2-4de2-92b2-8f73f3a0501f" />
 
-Handling Erroneous Values:
+Handling Erroneous Values:     
 <img width="1356" height="230" alt="Handling_Erroneousvalue" src="https://github.com/user-attachments/assets/47487180-09fa-4e6a-9ff4-5e9d1677cb76" />
 
-Handling Outliers:
+Handling Outliers:       
 <img width="694" height="239" alt="Handling_Outliers" src="https://github.com/user-attachments/assets/d710e4fb-2022-470f-a98b-397a650f0281" />
 
 
