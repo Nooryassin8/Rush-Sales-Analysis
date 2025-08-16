@@ -12,14 +12,13 @@ Datatype Converting: <img width="905" height="152" alt="Datatype_Converting" src
 Check for Null Values:  
 <img width="564" height="97" alt="Null_Values" src="https://github.com/user-attachments/assets/b6da2111-1b95-4447-9d84-941b57814b72" />
 
-Check for Unique Values:  
-
+Check for Unique Values:     
 <img width="716" height="263" alt="Unique_Value" src="https://github.com/user-attachments/assets/0f56327a-7c57-4481-a03a-280c23ff487b" />
 
-Check for Erroneous Values: 
+Check for Erroneous Values:     
 <img width="722" height="262" alt="Erroneous_Value" src="https://github.com/user-attachments/assets/9987a49b-e2b4-4b8f-b3c8-0560ac32f65a" />
 
-Check for Outliers:
+Check for Outliers:    
 <img width="910" height="562" alt="Outliers" src="https://github.com/user-attachments/assets/608cd566-e6b1-4545-8a05-399c15717cd7" />
 
 
