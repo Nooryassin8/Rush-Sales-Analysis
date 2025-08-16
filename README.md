@@ -1,4 +1,4 @@
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/r0Mq89WQ36M?si=zicKCi1J83M1sBFz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>](https://youtu.be/r0Mq89WQ36M?si=j5We8OdSouFbvK0z)      
+https://youtu.be/r0Mq89WQ36M?si=j5We8OdSouFbvK0z       
   
   
 **Purpose of sharing the project**: showcasing skills in using Pandas library in Python, calculating KPIs, answering business questions, spotting trends & patterns, and data manipulation & cleaning.     
