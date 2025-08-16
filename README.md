@@ -39,7 +39,8 @@ Handling Outliers:
 <img width="694" height="239" alt="Handling_Outliers" src="https://github.com/user-attachments/assets/d710e4fb-2022-470f-a98b-397a650f0281" />
 
 
-Step4: Rush Sales Analysis:
+Step4: Rush Sales Analysis:   
+
 Seasonality:     
 <img width="746" height="337" alt="Seasonality" src="https://github.com/user-attachments/assets/b907237a-9ad7-463c-bdea-db7cd707cee6" />
 
